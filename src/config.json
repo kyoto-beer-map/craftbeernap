@@ -1,6 +1,6 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "京都 CRAFT BEER MAP",
+  "description": "京都でクラフトビールを飲めるお店が見られる地図を作りたい!という有志で作った無料のマップ\n23年6月15日版",
   "form_url": "",
   "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
